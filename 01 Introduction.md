@@ -2,7 +2,7 @@
 
 ## OpenGL이란?
 * OpenGL을 library라고 생각했다. 하지만 OpenGL은 설명서(Specification)와 같은 것이다. 42로 따지면 과제마다 나오는 subject 처럼 함수의 이름, 기능, 인자, 작동 방식 등이 설명된 설명서이다.
-  * 그렇다면 OpenGL 문서에 작성된 내용을 누가 구현하느냐? 메모리카드 제조업체가 구현하는 것이다. 당연히 메모리카드 제조업체는 한 군데가 아니며, 따라서 OpenGL의 구현도 하나가 아니다.
+  * 그렇다면 OpenGL 문서에 작성된 내용을 누가 구현하느냐? 그래픽카드 제조업체가 구현하는 것이다. 당연히 그래픽카드 제조업체는 한 군데가 아니며, 따라서 OpenGL의 구현도 하나가 아니다.
   * 이렇게 작성된 코드들의 집합을 OpenGL API(Application Programming Interface)라고 부른다. API란 운영 프로그램에서 사용할 수 있도록 운영 체제나 프로그래밍 언어가 제공하는 기능을 제어할 수 있게 만드는 인터페이스이다.
 
 ## GLFW(Graphics Library Framework)이란?
